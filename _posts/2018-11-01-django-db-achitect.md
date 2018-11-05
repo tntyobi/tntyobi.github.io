@@ -20,7 +20,7 @@ author: tntyobi
 이전 블로그에서 생성한 샘플화면 중에 examples/tables.html 화면
 여기에 디비에 추가한 데이터를 한번 조회해서 뿌려보려고 한다.
 
-![main/urls.py](/assets/images/20181101/web1.jpg)
+![main/urls.py](/assets/images/web1.jpg)
 
 (좌측 메뉴 클릭시 화면이 제대로 로드 되지 않으면 이전 포스트 마지막부분에 언급한 경로 부분을 수정 해주세요.)
 
@@ -86,6 +86,6 @@ djangoSample/main/templates/main/examples/tables.html
 
 추가 한 데이터가 조회 되는것을 확인 (사진 등도 차후 업로드 해서 출력해보세요.)
 
-![main/urls.py](/assets/images/20181101/web2.jpg)
+![main/urls.py](/assets/images/web2.jpg)
 
 1차 업로드 버젼입니다.
