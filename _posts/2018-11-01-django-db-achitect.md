@@ -4,7 +4,7 @@ title:  "django DB"
 description: 장고에서 DB를 연결하자.
 date: 2018-11-01 14:10:25 +0200
 categories: jekyll update
-img: djangoDb.jpg
+img: django-db.jpg
 author: tntyobi
 ---
 
